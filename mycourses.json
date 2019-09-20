@@ -1,0 +1,22 @@
+{
+    "student": "Mitchell Desjardins",
+    "timestamp": "2019-09-19T10:01:59+0000",
+    "count": 15,
+    version": "1.0.1",
+    "data": [
+        {"id": 0, "courseCode": "ULI101", "courseName": "Intro to UNIX/Linux & Internet"},
+        { "id": 1, "courseCode": "IPC144", "courseName": "Intro to Programming Using C"},
+        {"id": 2, "courseCode": "CPR101", "courseName": "Comp. Principle for Programmer" },
+        { "id": 3,"courseCode": "APC100","courseName": "Applied Prof. Communications"},
+        {"id": 4,"courseCode": "DBS201","courseName": "Intro to Database Design & SQL"},
+        {"id": 5,"courseCode": "DCF255", "courseName": "Intro to Database Design & SQL"},
+        {"id": 6,"courseCode": "OOP244","courseName": "Object Oriented Programming"},
+        {"id": 7,"courseCode": "SYS366","courseName": "Requirements Gathering Using OO Models"},
+        {"id": 8,"courseCode": "PSY208","courseName": "Media Psychology"},
+        {"id": 9,"courseCode": "EAC411","courseName": "Language of the Media"},
+        {"id": 10,"courseCode": "WEB222","courseName": "Web Programming Principles"},
+        {"id": 11,"courseCode": "DBS301","courseName": "Database Design II & SQL"},
+        {"id": 12,"courseCode": "OOP345","courseName": "Software Development Using C++"},
+        {"id": 13,"courseCode": "PSY206","courseName": "Personality & Abnormal Behav."},
+        {"id": 14,"courseCode": "SYS366","courseName": "Req. Gath. Using OO Models"}]
+}
